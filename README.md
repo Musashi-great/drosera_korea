@@ -9,5 +9,5 @@ Drosera 테스트넷 기여
 - 2 CPU Cores
 - 4 GB RAM
 - 20 GB Disk Space
-- VPS 
-- Ethereum Holesky RPC
+- VPS [전 콘타보 씀]([url](https://contabo.com/en/))
+- Ethereum Holesky RPC / [Alchemy]([url](https://www.alchemy.com/)) or [Ankr](https://www.ankr.com/rpc/)
