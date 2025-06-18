@@ -244,7 +244,7 @@ WantedBy=multi-user.target
 EOF
 ```
 - << >> 한 부분 수정해서 넣기 / 변경할부분 RPC 주소 , EVM 프빗키, VPS ip
-- 혹시나 ExecStart 부분에 사용자면 root 아닌사람들 변경 
+- 혹시나 ExecStart 부분에 사용자면 root 아닌 사람들 변경 
 
 ```
 sudo systemctl daemon-reload
@@ -260,7 +260,7 @@ sudo systemctl enable drosera-operator.service
 ```
 sudo systemctl status drosera-operator.service
 ```
-- Operater 상태 확인하기 아래 그림처럼 나오면 성공!!!!!!!!!!!!!!!!!!!!!!
+- Operater 상태 확인하기. 아래 그림처럼 나오면 성공!!!!!!!!!!!!!!!!!!!!!!
 ![image](https://github.com/user-attachments/assets/5368f72a-c5bb-46a6-b7b3-eafbbe4dc19f)
 
 ![image](https://github.com/user-attachments/assets/f3a6453d-ea83-4315-b7fc-0521f57702eb)
@@ -269,7 +269,7 @@ sudo systemctl status drosera-operator.service
 
 ![image](https://github.com/user-attachments/assets/d2389b8f-bde3-422d-866c-fe947ab7ff40)
 
-- Opti in 클릭 후 진행
+- Opt in 클릭 후 진행
 - Operater와 Tarp 연결과정
 
 ## 8. Operater 노드 상태 체크
