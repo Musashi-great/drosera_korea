@@ -260,10 +260,9 @@ sudo systemctl enable drosera-operator.service
 ```
 sudo systemctl status drosera-operator.service
 ```
-- Operater 상태 확인하기. 아래 그림처럼 나오면 성공!!!!!!!!!!!!!!!!!!!!!!
+- Operater 상태 확인하기. 아래 그림처럼 나오면 성공
 ![image](https://github.com/user-attachments/assets/5368f72a-c5bb-46a6-b7b3-eafbbe4dc19f)
 
-![image](https://github.com/user-attachments/assets/f3a6453d-ea83-4315-b7fc-0521f57702eb)
 
 ## 7. Trap Opt-in 하기
 
